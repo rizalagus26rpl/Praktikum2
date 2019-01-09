@@ -2,7 +2,7 @@
 latihan1
 ![alt text](https://github.com/rizalagus26rpl/Praktikum2/blob/master/Praktikum2/Modul3/Latihan1.png?raw=true)
 latihan2
-![alt text](https://github.com/rizalagus26rpl/Praktikum1/blob/master/Praktikum2/Modul3/Latihan2.png?raw=true)
+![alt text](https://github.com/rizalagus26rpl/Praktikum2/blob/master/Praktikum2/Modul3/Latihan2.png?raw=true)
 latihan3
 ![alt text](https://github.com/rizalagus26rpl/Praktikum1/blob/master/Praktikum2/Modul3/Latihan3.png?raw=true)
 latihan4
